@@ -1,8 +1,12 @@
 {
-  "name": "remodal",
+  "name": "@made-together/remodal",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Ryan Turner",
   "license": "MIT",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Made-Together/remodal.git"
+  },
 }
